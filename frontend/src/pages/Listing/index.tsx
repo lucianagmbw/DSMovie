@@ -30,9 +30,6 @@ function Listing() {
      });
 
     } , [pageNumber]);
-    
-   
-
 
     return (
     <>
